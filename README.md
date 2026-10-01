@@ -245,4 +245,4 @@ This repository serves as the official landing page for Supreme Commander. The s
 **Get the most recent version of Supreme Commander today!**
 
 ---
-**Last updated:** 2026-09-30 22:56:36 UTC
+**Last updated:** 2026-10-01 02:00:24 UTC
